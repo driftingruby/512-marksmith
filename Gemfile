@@ -57,4 +57,4 @@ end
 gem "hotwire-spark", group: :development
 
 gem "marksmith", "~> 0.4.5"
-gem "commonmarker", "~> 2.3"
+gem "commonmarker", "~> 2.4"
